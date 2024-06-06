@@ -47,6 +47,7 @@ class _SearchTextFieldState extends State<SearchTextField> {
                         widget.controller != null
                             ? widget.controller!.clear()
                             : controller.clear();
+                        widget.onChanged("");
                       });
                     },
                   )

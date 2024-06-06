@@ -111,7 +111,7 @@ class NewExerciseSheet extends StatelessWidget {
                         ),
                       ),
                       SizedBox(
-                        width: AppSize.w10,
+                        width: AppSize.w5,
                       ),
                       Expanded(
                         child: InkWell(
@@ -149,10 +149,15 @@ class NewExerciseSheet extends StatelessWidget {
                                     Icons.sort,
                                     size: AppSize.sp15,
                                   ),
-                                  Text(workoutPlanProvider
-                                          .selectedequipments.isEmpty
-                                      ? "All equipment"
-                                      : "${workoutPlanProvider.selectedequipments.length}"),
+                                  Expanded(
+                                    child: Text(
+                                      workoutPlanProvider
+                                              .selectedequipments.isEmpty
+                                          ? "All equipment"
+                                          : "${workoutPlanProvider.selectedequipments.length}",
+                                      overflow: TextOverflow.ellipsis,
+                                    ),
+                                  ),
                                   Icon(
                                     Icons.arrow_forward_ios,
                                     size: AppSize.sp15,
@@ -163,6 +168,14 @@ class NewExerciseSheet extends StatelessWidget {
                           ),
                         ),
                       ),
+                      IconButton(
+                        icon: Icon(Icons.clear),
+                        onPressed: () {
+                          workoutPlanProvider.selectedmuscles = [];
+                          workoutPlanProvider.selectedequipments = [];
+                          filterData(context, workoutPlanProvider, "");
+                        },
+                      )
                     ],
                   ),
                   Expanded(child: ExerciseListView())

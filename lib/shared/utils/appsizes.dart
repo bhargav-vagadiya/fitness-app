@@ -9,6 +9,7 @@ class AppSize {
   static final double h50 = 50.h;
 
   // width
+  static final double w5 = 5.w;
   static final double w10 = 10.w;
   static final double w20 = 20.w;
   static final double w30 = 30.w;
