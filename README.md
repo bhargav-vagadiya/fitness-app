@@ -1,16 +1,53 @@
-# monkeybox_bhargav_vagadiya_flutter_dev
+# Exercise Manager
 
-A new Flutter project.
+Exercise Manager App is a Flutter application designed to allow users to view and update information about workout and exercise. It utilizes the Provider state management library for efficient state handling and Sqflite database for local storage.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- View a list of workout with their exercise.
+- Add Workout
+- Add Exercise
+- Delete Exercise
+- Delete Workout
+- Update existing Workout information.
 
-A few resources to get you started if this is your first Flutter project:
+## Requirements
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK : 3.22.0
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone [https://github.com/bhargav-vagadiya/sample_pet_app.git](https://github.com/bhargav-vagadiya/monkeybox-bhargav-vagadiya-flutter-dev.git)
+    ```
+
+2. **Navigate to the project directory:**
+
+    ```bash
+    cd monkeybox-bhargav-vagadiya-flutter-dev
+    ```
+
+3. **Install dependencies:**
+
+    ```bash
+    flutter pub get
+    ```
+
+5. **Run the app:**
+
+    ```bash
+    flutter run
+    ```
+
+## Usage
+
+- Upon launching the app, you'll be presented with workouts tab.
+- Tap on a add workout to add workout and exercise
+- Use the options provided to update pets as needed.
+
+## State Management
+
+This app uses GetX for state management, which provides a simple and efficient way to manage state and update UI components.
+
