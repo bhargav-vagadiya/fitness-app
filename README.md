@@ -49,5 +49,5 @@ Exercise Manager App is a Flutter application designed to allow users to view an
 
 ## State Management
 
-This app uses GetX for state management, which provides a simple and efficient way to manage state and update UI components.
+This app uses Provider for state management, which provides a simple and efficient way to manage state and update UI components.
 
