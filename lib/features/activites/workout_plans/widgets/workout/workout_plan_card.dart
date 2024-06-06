@@ -3,7 +3,15 @@ import 'package:workout_management/shared/utils/appsizes.dart';
 import 'package:workout_management/shared/utils/themes.dart';
 
 class WorkoutPlan extends StatelessWidget {
-  const WorkoutPlan({super.key});
+  const WorkoutPlan(
+      {super.key,
+      required this.title,
+      required this.exercises,
+      required this.sets});
+
+  final String title;
+  final String exercises;
+  final String sets;
 
   @override
   Widget build(BuildContext context) {
@@ -14,16 +22,16 @@ class WorkoutPlan extends StatelessWidget {
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
-            const Column(
+             Column(
               mainAxisSize: MainAxisSize.min,
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
-                  "New Workout",
+                  title,
                   style: AppTheme.boldText,
                 ),
                 Text(
-                  "5 exercises, 7 sets",
+                  "$exercises exercises, $sets sets",
                   style: AppTheme.greyText,
                 )
               ],

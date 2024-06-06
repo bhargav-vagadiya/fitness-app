@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:provider/provider.dart';
+import 'package:workout_management/features/activites/workout_plans/provider/new_workout_provider.dart';
+import 'package:workout_management/features/activites/workout_plans/provider/workout_list_provider.dart';
 import 'package:workout_management/features/splash/splash_screen.dart';
 import 'package:workout_management/shared/provider/common_provider.dart';
 import 'package:workout_management/shared/utils/navigator.dart';
@@ -19,8 +21,12 @@ class MyApp extends StatelessWidget {
     return ScreenUtilInit(
       minTextAdapt: true,
       builder: (context, child) {
-        return ChangeNotifierProvider(
-          create: (context) => CommonProvider(),
+        return MultiProvider(
+          providers: [
+            ChangeNotifierProvider(create: (context) => CommonProvider()),
+            ChangeNotifierProvider(create: (context) => WorkoutListProvider()),
+            ChangeNotifierProvider(create: (context) => NewWorkoutProvider()),
+          ],
           child: MaterialApp(
             navigatorKey: AppNavigator.navigatorKey,
             title: 'Workout Manager',

@@ -60,116 +60,117 @@ class ExerciseModel {
   final List<Muscle>? secondaryMuscles;
   final List<Category>? categories;
   final List<Sets>? sets;
+  final int? reorderNo;
 
-  ExerciseModel({
-    this.id,
-    this.trainerId,
-    this.gymId,
-    this.name,
-    this.description,
-    this.instructions,
-    this.aliases,
-    this.status,
-    this.source,
-    this.level,
-    this.isBodyweight,
-    this.isDistance,
-    this.isTimed,
-    this.isCardio,
-    this.bodyTier,
-    this.coefficient,
-    this.isAssisted,
-    this.isUnilateral,
-    this.mobilityType,
-    this.movementPattern,
-    this.olyRating,
-    this.olyTier,
-    this.powerTier,
-    this.tier,
-    this.toneRating,
-    this.rating,
-    this.repsScale,
-    this.parseId,
-    this.relativeWeight,
-    this.listPosition,
-    this.preferredDistanceScale,
-    this.referenceId,
-    this.mediaVersion,
-    this.angle0Image,
-    this.angle0Video,
-    this.angle1Image,
-    this.angle1Video,
-    this.angle2Image,
-    this.angle2Video,
-    this.headerImage,
-    this.thumbImage,
-    this.fullVideo,
-    this.headerVideo,
-    this.oneRepVideo,
-    this.typecode,
-    this.createdAt,
-    this.updatedAt,
-    this.equipments,
-    this.mainMuscles,
-    this.secondaryMuscles,
-    this.categories,
-    this.sets,
-  });
+  ExerciseModel(
+      {this.id,
+      this.trainerId,
+      this.gymId,
+      this.name,
+      this.description,
+      this.instructions,
+      this.aliases,
+      this.status,
+      this.source,
+      this.level,
+      this.isBodyweight,
+      this.isDistance,
+      this.isTimed,
+      this.isCardio,
+      this.bodyTier,
+      this.coefficient,
+      this.isAssisted,
+      this.isUnilateral,
+      this.mobilityType,
+      this.movementPattern,
+      this.olyRating,
+      this.olyTier,
+      this.powerTier,
+      this.tier,
+      this.toneRating,
+      this.rating,
+      this.repsScale,
+      this.parseId,
+      this.relativeWeight,
+      this.listPosition,
+      this.preferredDistanceScale,
+      this.referenceId,
+      this.mediaVersion,
+      this.angle0Image,
+      this.angle0Video,
+      this.angle1Image,
+      this.angle1Video,
+      this.angle2Image,
+      this.angle2Video,
+      this.headerImage,
+      this.thumbImage,
+      this.fullVideo,
+      this.headerVideo,
+      this.oneRepVideo,
+      this.typecode,
+      this.createdAt,
+      this.updatedAt,
+      this.equipments,
+      this.mainMuscles,
+      this.secondaryMuscles,
+      this.categories,
+      this.sets,
+      this.reorderNo});
 
-  ExerciseModel copyWith({
-    String? id,
-    dynamic trainerId,
-    dynamic gymId,
-    String? name,
-    String? description,
-    String? instructions,
-    List<dynamic>? aliases,
-    String? status,
-    String? source,
-    String? level,
-    bool? isBodyweight,
-    bool? isDistance,
-    bool? isTimed,
-    bool? isCardio,
-    int? bodyTier,
-    int? coefficient,
-    bool? isAssisted,
-    bool? isUnilateral,
-    String? mobilityType,
-    String? movementPattern,
-    int? olyRating,
-    int? olyTier,
-    int? powerTier,
-    int? tier,
-    int? toneRating,
-    int? rating,
-    int? repsScale,
-    dynamic parseId,
-    dynamic relativeWeight,
-    int? listPosition,
-    String? preferredDistanceScale,
-    String? referenceId,
-    String? mediaVersion,
-    String? angle0Image,
-    String? angle0Video,
-    String? angle1Image,
-    String? angle1Video,
-    dynamic angle2Image,
-    dynamic angle2Video,
-    String? headerImage,
-    String? thumbImage,
-    String? fullVideo,
-    String? headerVideo,
-    String? oneRepVideo,
-    int? typecode,
-    DateTime? createdAt,
-    DateTime? updatedAt,
-    List<Category>? equipments,
-    List<Muscle>? mainMuscles,
-    List<Muscle>? secondaryMuscles,
-    List<Category>? categories,
-    List<Sets>? sets,
-  }) =>
+  ExerciseModel copyWith(
+          {String? id,
+          dynamic trainerId,
+          dynamic gymId,
+          String? name,
+          String? description,
+          String? instructions,
+          List<dynamic>? aliases,
+          String? status,
+          String? source,
+          String? level,
+          bool? isBodyweight,
+          bool? isDistance,
+          bool? isTimed,
+          bool? isCardio,
+          int? bodyTier,
+          int? coefficient,
+          bool? isAssisted,
+          bool? isUnilateral,
+          String? mobilityType,
+          String? movementPattern,
+          int? olyRating,
+          int? olyTier,
+          int? powerTier,
+          int? tier,
+          int? toneRating,
+          int? rating,
+          int? repsScale,
+          dynamic parseId,
+          dynamic relativeWeight,
+          int? listPosition,
+          String? preferredDistanceScale,
+          String? referenceId,
+          String? mediaVersion,
+          String? angle0Image,
+          String? angle0Video,
+          String? angle1Image,
+          String? angle1Video,
+          dynamic angle2Image,
+          dynamic angle2Video,
+          String? headerImage,
+          String? thumbImage,
+          String? fullVideo,
+          String? headerVideo,
+          String? oneRepVideo,
+          int? typecode,
+          DateTime? createdAt,
+          DateTime? updatedAt,
+          List<Category>? equipments,
+          List<Muscle>? mainMuscles,
+          List<Muscle>? secondaryMuscles,
+          List<Category>? categories,
+          List<Sets>? sets,
+          int? reorderNo}) =>
       ExerciseModel(
         id: id ?? this.id,
         trainerId: trainerId ?? this.trainerId,
@@ -224,79 +225,94 @@ class ExerciseModel {
         secondaryMuscles: secondaryMuscles ?? this.secondaryMuscles,
         categories: categories ?? this.categories,
         sets: sets ?? this.sets,
+        reorderNo: reorderNo ?? this.reorderNo,
       );
 
   factory ExerciseModel.fromJson(Map<String, dynamic> json) => ExerciseModel(
-        id: json["id"],
-        trainerId: json["trainerId"],
-        gymId: json["gymId"],
-        name: json["name"],
-        description: json["description"],
-        instructions: json["instructions"],
-        aliases: json["aliases"] == null
-            ? []
-            : List<dynamic>.from(json["aliases"]!.map((x) => x)),
-        status: json["status"],
-        source: json["source"],
-        level: json["level"],
-        isBodyweight: json["isBodyweight"],
-        isDistance: json["isDistance"],
-        isTimed: json["isTimed"],
-        isCardio: json["isCardio"],
-        bodyTier: json["bodyTier"],
-        coefficient: json["coefficient"],
-        isAssisted: json["isAssisted"],
-        isUnilateral: json["isUnilateral"],
-        mobilityType: json["mobilityType"],
-        movementPattern: json["movementPattern"],
-        olyRating: json["olyRating"],
-        olyTier: json["olyTier"],
-        powerTier: json["powerTier"],
-        tier: json["tier"],
-        toneRating: json["toneRating"],
-        rating: json["rating"],
-        repsScale: json["repsScale"],
-        parseId: json["parseId"],
-        relativeWeight: json["relativeWeight"],
-        listPosition: json["listPosition"],
-        preferredDistanceScale: json["preferredDistanceScale"],
-        referenceId: json["referenceId"],
-        mediaVersion: json["mediaVersion"],
-        angle0Image: json["angle0Image"],
-        angle0Video: json["angle0Video"],
-        angle1Image: json["angle1Image"],
-        angle1Video: json["angle1Video"],
-        angle2Image: json["angle2Image"],
-        angle2Video: json["angle2Video"],
-        headerImage: json["headerImage"],
-        thumbImage: json["thumbImage"],
-        fullVideo: json["fullVideo"],
-        headerVideo: json["headerVideo"],
-        oneRepVideo: json["oneRepVideo"],
-        typecode: json["typecode"],
-        createdAt: json["createdAt"] == null
-            ? null
-            : DateTime.parse(json["createdAt"]),
-        updatedAt: json["updatedAt"] == null
-            ? null
-            : DateTime.parse(json["updatedAt"]),
-        equipments: json["equipments"] == null
-            ? []
-            : List<Category>.from(
-                json["equipments"]!.map((x) => Category.fromJson(x))),
-        mainMuscles: json["mainMuscles"] == null
-            ? []
-            : List<Muscle>.from(
-                json["mainMuscles"]!.map((x) => Muscle.fromJson(x))),
-        secondaryMuscles: json["secondaryMuscles"] == null
-            ? []
-            : List<Muscle>.from(
-                json["secondaryMuscles"]!.map((x) => Muscle.fromJson(x))),
-        categories: json["categories"] == null
-            ? []
-            : List<Category>.from(
-                json["categories"]!.map((x) => Category.fromJson(x))),
+      id: json["id"],
+      trainerId: json["trainerId"],
+      gymId: json["gymId"],
+      name: json["name"],
+      description: json["description"],
+      instructions: json["instructions"],
+      aliases: json["aliases"] == null
+          ? []
+          : List<dynamic>.from(json["aliases"]!.map((x) => x)),
+      status: json["status"],
+      source: json["source"],
+      level: json["level"],
+      isBodyweight: json["isBodyweight"],
+      isDistance: json["isDistance"],
+      isTimed: json["isTimed"],
+      isCardio: json["isCardio"],
+      bodyTier: json["bodyTier"],
+      coefficient: json["coefficient"],
+      isAssisted: json["isAssisted"],
+      isUnilateral: json["isUnilateral"],
+      mobilityType: json["mobilityType"],
+      movementPattern: json["movementPattern"],
+      olyRating: json["olyRating"],
+      olyTier: json["olyTier"],
+      powerTier: json["powerTier"],
+      tier: json["tier"],
+      toneRating: json["toneRating"],
+      rating: json["rating"],
+      repsScale: json["repsScale"],
+      parseId: json["parseId"],
+      relativeWeight: json["relativeWeight"],
+      listPosition: json["listPosition"],
+      preferredDistanceScale: json["preferredDistanceScale"],
+      referenceId: json["referenceId"],
+      mediaVersion: json["mediaVersion"],
+      angle0Image: json["angle0Image"],
+      angle0Video: json["angle0Video"],
+      angle1Image: json["angle1Image"],
+      angle1Video: json["angle1Video"],
+      angle2Image: json["angle2Image"],
+      angle2Video: json["angle2Video"],
+      headerImage: json["headerImage"],
+      thumbImage: json["thumbImage"],
+      fullVideo: json["fullVideo"],
+      headerVideo: json["headerVideo"],
+      oneRepVideo: json["oneRepVideo"],
+      typecode: json["typecode"],
+      createdAt:
+          json["createdAt"] == null ? null : DateTime.parse(json["createdAt"]),
+      updatedAt:
+          json["updatedAt"] == null ? null : DateTime.parse(json["updatedAt"]),
+      equipments: json["equipments"] == null
+          ? []
+          : List<Category>.from(
+              json["equipments"]!.map((x) => Category.fromJson(x))),
+      mainMuscles: json["mainMuscles"] == null
+          ? []
+          : List<Muscle>.from(
+              json["mainMuscles"]!.map((x) => Muscle.fromJson(x))),
+      secondaryMuscles: json["secondaryMuscles"] == null
+          ? []
+          : List<Muscle>.from(
+              json["secondaryMuscles"]!.map((x) => Muscle.fromJson(x))),
+      categories: json["categories"] == null
+          ? []
+          : List<Category>.from(
+              json["categories"]!.map((x) => Category.fromJson(x))),
+      reorderNo: json["reorder_no"]);
+
+  factory ExerciseModel.fromSql(
+          Map<String, dynamic> json, List<Map<String, dynamic>> sets) =>
+      ExerciseModel(
+        id: json["eid"],
+        name: json["ename"],
+        reorderNo: json['reorder_no'],
+        sets: sets
+            .map(
+              (e) => Sets.fromJson(e),
+            )
+            .toList(),
       );
+
+  Map<String, dynamic> toSql() =>
+      {"id": id, "name": name, "reorder_no": reorderNo};
 
   Map<String, dynamic> toJson() => {
         "id": id,
@@ -363,10 +379,14 @@ class ExerciseModel {
 }
 
 class Sets {
+  int? id;
   int? kg;
   int? repos;
 
-  Sets({this.kg = 0, this.repos = 0});
+  Sets({this.id, this.kg = 0, this.repos = 0});
+  static Sets fromJson(Map<String, dynamic> json) =>
+      Sets(id: json["id"], kg: json["kg"], repos: json["reps"]);
+  Map<String, dynamic> toJson() => {"kg": kg, "reps": repos, "id": id};
 }
 
 class Category {

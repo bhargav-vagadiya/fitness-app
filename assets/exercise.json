@@ -1557,8 +1557,8 @@
         "trainerId": null,
         "gymId": null,
         "name": "Air Bike",
-        "description": "Sit on the bike with an overhand grip on the bike handles allowing your elbows to be slightly bent at full extension. \nPosition your feet on the foot pedals allowing your knees to be slightly bent at full extension.  \nPedal the bike with your feet while simultaneously pushing and pulling with your upper body.",
-        "instructions": "Sit on the bike with an overhand grip on the bike handles allowing your elbows to be slightly bent at full extension. \nPosition your feet on the foot pedals allowing your knees to be slightly bent at full extension.  \nPedal the bike with your feet while simultaneously pushing and pulling with your upper body.",
+        "description": "Sit on the bike with an overhand grip on the bike handles allowing your elbows to be slightly bent at full extension.\nPosition your feet on the foot pedals allowing your knees to be slightly bent at full extension. \nPedal the bike with your feet while simultaneously pushing and pulling with your upper body.",
+        "instructions": "Sit on the bike with an overhand grip on the bike handles allowing your elbows to be slightly bent at full extension.\nPosition your feet on the foot pedals allowing your knees to be slightly bent at full extension. \nPedal the bike with your feet while simultaneously pushing and pulling with your upper body.",
         "aliases": [],
         "status": "active",
         "source": "nextrep",
@@ -3240,8 +3240,8 @@
         "trainerId": null,
         "gymId": null,
         "name": "Anterior Isometric Neck",
-        "description": "Stand upright with your palms placed on your forehead.\n Push your forehead into your palms while pushing equally your palms into your forehead.\n Hold the isometric position for the allotted repetitions.",
-        "instructions": "Stand upright with your palms placed on your forehead.\n Push your forehead into your palms while pushing equally your palms into your forehead.\n Hold the isometric position for the allotted repetitions.",
+        "description": "Stand upright with your palms placed on your forehead.\nPush your forehead into your palms while pushing equally your palms into your forehead.\nHold the isometric position for the allotted repetitions.",
+        "instructions": "Stand upright with your palms placed on your forehead.\nPush your forehead into your palms while pushing equally your palms into your forehead.\nHold the isometric position for the allotted repetitions.",
         "aliases": [],
         "status": "active",
         "source": "nextrep",
@@ -4623,8 +4623,8 @@
         "trainerId": null,
         "gymId": null,
         "name": "Assisted Wide Grip Pull Up",
-        "description": "Place your knees onto the assisted pad and grab ahold of the pull up handles with an overhand wide grip. \nBend your elbows to your sides to pull your head up above the handles keeping your torso vertical. \nControllably lower to the starting position.",
-        "instructions": "Place your knees onto the assisted pad and grab ahold of the pull up handles with an overhand wide grip. \nBend your elbows to your sides to pull your head up above the handles keeping your torso vertical. \nControllably lower to the starting position.",
+        "description": "Place your knees onto the assisted pad and grab ahold of the pull up handles with an overhand wide grip.\nBend your elbows to your sides to pull your head up above the handles keeping your torso vertical.\nControllably lower to the starting position.",
+        "instructions": "Place your knees onto the assisted pad and grab ahold of the pull up handles with an overhand wide grip.\nBend your elbows to your sides to pull your head up above the handles keeping your torso vertical.\nControllably lower to the starting position.",
         "aliases": [],
         "status": "active",
         "source": "nextrep",
@@ -5567,8 +5567,8 @@
         "trainerId": null,
         "gymId": null,
         "name": "Backward Arm Circle",
-        "description": "Stand upright with your arms laterally extended at shoulder height. \r\nKeep your arms extended as you begin going counterclockwise making small circles with your hands. \r\nContinue the counterclockwise motion for the allotted reps.",
-        "instructions": "Stand upright with your arms laterally extended at shoulder height. \r\nKeep your arms extended as you begin going counterclockwise making small circles with your hands. \r\nContinue the counterclockwise motion for the allotted reps.",
+        "description": "Stand upright with your arms laterally extended at shoulder height.\r\nKeep your arms extended as you begin going counterclockwise making small circles with your hands.\r\nContinue the counterclockwise motion for the allotted reps.",
+        "instructions": "Stand upright with your arms laterally extended at shoulder height.\r\nKeep your arms extended as you begin going counterclockwise making small circles with your hands.\r\nContinue the counterclockwise motion for the allotted reps.",
         "aliases": [],
         "status": "active",
         "source": "nextrep",
@@ -5843,8 +5843,8 @@
         "trainerId": null,
         "gymId": null,
         "name": "Balance Trainer Alternating Lunge",
-        "description": "Stand a short distance behind the Balance Trainer. \nStep forward with one foot and place it in a centered position on top of the dome. \nLower slowly into a lunge with both knees flexed to a comfortable depth and the back heel lifted. \nAlternate legs with each lunge, or perform all lunges on one side before repeating the same number of reps on the other side. \nMaintain upright spinal posture and a braced core throughout the exercise.",
-        "instructions": "Stand a short distance behind the Balance Trainer. \nStep forward with one foot and place it in a centered position on top of the dome. \nLower slowly into a lunge with both knees flexed to a comfortable depth and the back heel lifted. \nAlternate legs with each lunge, or perform all lunges on one side before repeating the same number of reps on the other side. \nMaintain upright spinal posture and a braced core throughout the exercise.",
+        "description": "Stand a short distance behind the Balance Trainer.\nStep forward with one foot and place it in a centered position on top of the dome.\nLower slowly into a lunge with both knees flexed to a comfortable depth and the back heel lifted.\nAlternate legs with each lunge, or perform all lunges on one side before repeating the same number of reps on the other side.\nMaintain upright spinal posture and a braced core throughout the exercise.",
+        "instructions": "Stand a short distance behind the Balance Trainer.\nStep forward with one foot and place it in a centered position on top of the dome.\nLower slowly into a lunge with both knees flexed to a comfortable depth and the back heel lifted.\nAlternate legs with each lunge, or perform all lunges on one side before repeating the same number of reps on the other side.\nMaintain upright spinal posture and a braced core throughout the exercise.",
         "aliases": [],
         "status": "active",
         "source": "nextrep",
@@ -6003,8 +6003,8 @@
         "trainerId": null,
         "gymId": null,
         "name": "Balance Trainer Alternating Lunge Jumps",
-        "description": "Standing behind the Balance Trainer, place one foot on top of the dome and bend both knees to a comfortable depth lunge.\n Jump vertically, switching leg positions in the air, and land with the opposite foot on top of the dome.\n Alternate legs with each lunge jump while maintaining equal range of motion on both sides.\n Focus on upright spinal posture and a braced core throughout the exercise.",
-        "instructions": "Standing behind the Balance Trainer, place one foot on top of the dome and bend both knees to a comfortable depth lunge.\n Jump vertically, switching leg positions in the air, and land with the opposite foot on top of the dome.\n Alternate legs with each lunge jump while maintaining equal range of motion on both sides.\n Focus on upright spinal posture and a braced core throughout the exercise.",
+        "description": "Standing behind the Balance Trainer, place one foot on top of the dome and bend both knees to a comfortable depth lunge.\nJump vertically, switching leg positions in the air, and land with the opposite foot on top of the dome.\nAlternate legs with each lunge jump while maintaining equal range of motion on both sides.\nFocus on upright spinal posture and a braced core throughout the exercise.",
+        "instructions": "Standing behind the Balance Trainer, place one foot on top of the dome and bend both knees to a comfortable depth lunge.\nJump vertically, switching leg positions in the air, and land with the opposite foot on top of the dome.\nAlternate legs with each lunge jump while maintaining equal range of motion on both sides.\nFocus on upright spinal posture and a braced core throughout the exercise.",
         "aliases": [],
         "status": "active",
         "source": "nextrep",
@@ -6163,8 +6163,8 @@
         "trainerId": null,
         "gymId": null,
         "name": "Balance Trainer Balance Bar Hip Thrusters",
-        "description": "Sit on the floor in front of the Balance Trainer with knees bent and feet flat on the floor.\n Place the Balance Bar across the hips and lean back against the dome so the shoulders and head are supported.\n Press the hips up to a bridge position and pause at the top of the motion.\n Slowly lower the hips back to the start position on the floor.\n Keep the core braced and avoid arching the lower back at the top of the motion.",
-        "instructions": "Sit on the floor in front of the Balance Trainer with knees bent and feet flat on the floor.\n Place the Balance Bar across the hips and lean back against the dome so the shoulders and head are supported.\n Press the hips up to a bridge position and pause at the top of the motion.\n Slowly lower the hips back to the start position on the floor.\n Keep the core braced and avoid arching the lower back at the top of the motion.",
+        "description": "Sit on the floor in front of the Balance Trainer with knees bent and feet flat on the floor.\nPlace the Balance Bar across the hips and lean back against the dome so the shoulders and head are supported.\nPress the hips up to a bridge position and pause at the top of the motion.\nSlowly lower the hips back to the start position on the floor.\nKeep the core braced and avoid arching the lower back at the top of the motion.",
+        "instructions": "Sit on the floor in front of the Balance Trainer with knees bent and feet flat on the floor.\nPlace the Balance Bar across the hips and lean back against the dome so the shoulders and head are supported.\nPress the hips up to a bridge position and pause at the top of the motion.\nSlowly lower the hips back to the start position on the floor.\nKeep the core braced and avoid arching the lower back at the top of the motion.",
         "aliases": [],
         "status": "active",
         "source": "nextrep",
@@ -6363,8 +6363,8 @@
         "trainerId": null,
         "gymId": null,
         "name": "Balance Trainer Bar Assisted Dome Squat",
-        "description": "Stand on top of the Balance Trainer dome with feet in a hip width stance and feet level. \nHold a Balance Bar in one hand with the tip resting on the floor to one side of the dome. \nSlowly flex the hips, knees and ankles, lowering into a comfortable depth squat. \nSimultaneously press the Balance Bar laterally. \nKeep the chest lifted and core braced throughout the exercise.",
-        "instructions": "Stand on top of the Balance Trainer dome with feet in a hip width stance and feet level. \nHold a Balance Bar in one hand with the tip resting on the floor to one side of the dome. \nSlowly flex the hips, knees and ankles, lowering into a comfortable depth squat. \nSimultaneously press the Balance Bar laterally. \nKeep the chest lifted and core braced throughout the exercise.",
+        "description": "Stand on top of the Balance Trainer dome with feet in a hip width stance and feet level.\nHold a Balance Bar in one hand with the tip resting on the floor to one side of the dome.\nSlowly flex the hips, knees and ankles, lowering into a comfortable depth squat.\nSimultaneously press the Balance Bar laterally.\nKeep the chest lifted and core braced throughout the exercise.",
+        "instructions": "Stand on top of the Balance Trainer dome with feet in a hip width stance and feet level.\nHold a Balance Bar in one hand with the tip resting on the floor to one side of the dome.\nSlowly flex the hips, knees and ankles, lowering into a comfortable depth squat.\nSimultaneously press the Balance Bar laterally.\nKeep the chest lifted and core braced throughout the exercise.",
         "aliases": [],
         "status": "active",
         "source": "nextrep",
@@ -6723,8 +6723,8 @@
         "trainerId": null,
         "gymId": null,
         "name": "Balance Trainer Braced Bicycle Kicks",
-        "description": "Sit on the Balance Trainer with hands on the sides of the dome. \nFully extend one leg while pulling the other knee in toward the chest. \nSimultaneously lean back until the torso is almost parallel to the floor. \nAlternately extend one leg while pulling the opposite leg to the chest. \nKeep the chest lifted and core braced throughout the exercise.",
-        "instructions": "Sit on the Balance Trainer with hands on the sides of the dome. \nFully extend one leg while pulling the other knee in toward the chest. \nSimultaneously lean back until the torso is almost parallel to the floor. \nAlternately extend one leg while pulling the opposite leg to the chest. \nKeep the chest lifted and core braced throughout the exercise.",
+        "description": "Sit on the Balance Trainer with hands on the sides of the dome.\nFully extend one leg while pulling the other knee in toward the chest.\nSimultaneously lean back until the torso is almost parallel to the floor.\nAlternately extend one leg while pulling the opposite leg to the chest.\nKeep the chest lifted and core braced throughout the exercise.",
+        "instructions": "Sit on the Balance Trainer with hands on the sides of the dome.\nFully extend one leg while pulling the other knee in toward the chest.\nSimultaneously lean back until the torso is almost parallel to the floor.\nAlternately extend one leg while pulling the opposite leg to the chest.\nKeep the chest lifted and core braced throughout the exercise.",
         "aliases": [],
         "status": "active",
         "source": "nextrep",
@@ -6834,8 +6834,8 @@
         "trainerId": null,
         "gymId": null,
         "name": "Balance Trainer Braced Frog Kicks",
-        "description": "Sit on the Balance Trainer with hands on the sides of the dome. \nPull both knees toward the chest in a v-sit position. \nSlowly extend both legs while simultaneously lowering the torso into a supine position. \nPull the knees back in and tuck back up to the starting position. \nMaintain a braced core throughout the exercise and avoid arching the lower back in the extended position.",
-        "instructions": "Sit on the Balance Trainer with hands on the sides of the dome. \nPull both knees toward the chest in a v-sit position. \nSlowly extend both legs while simultaneously lowering the torso into a supine position. \nPull the knees back in and tuck back up to the starting position. \nMaintain a braced core throughout the exercise and avoid arching the lower back in the extended position.",
+        "description": "Sit on the Balance Trainer with hands on the sides of the dome.\nPull both knees toward the chest in a v-sit position.\nSlowly extend both legs while simultaneously lowering the torso into a supine position.\nPull the knees back in and tuck back up to the starting position.\nMaintain a braced core throughout the exercise and avoid arching the lower back in the extended position.",
+        "instructions": "Sit on the Balance Trainer with hands on the sides of the dome.\nPull both knees toward the chest in a v-sit position.\nSlowly extend both legs while simultaneously lowering the torso into a supine position.\nPull the knees back in and tuck back up to the starting position.\nMaintain a braced core throughout the exercise and avoid arching the lower back in the extended position.",
         "aliases": [],
         "status": "active",
         "source": "nextrep",
@@ -7337,8 +7337,8 @@
         "trainerId": null,
         "gymId": null,
         "name": "Balance Trainer Cable Crunch With Side Bends",
-        "description": "Lower the arms of a free motion motion machine to the bottom position and place a Balance Trainer in the middle of the arms.\n\nSit on the edge of the Balance Trainer, dome side up, with your knees bent and feet planted firmly on the ground.\n\nLay your back onto the Balance Trainer placing your back into an extended position while grabbing ahold of the cable handles and extending your arms to the insides of your thighs.\n\nFlex the bottom of your ribcage to the top of your hips to raise your upper back off the Balance Trainer.\n\nReturn to the starting position and reposition the handles to the sides of your torso.\n\nFlex the bottom of your ribcage to the top of your hips to reach for the right handle to your heel. Repeat with the opposite side before returning to the starting position. ",
-        "instructions": "Lower the arms of a free motion motion machine to the bottom position and place a Balance Trainer in the middle of the arms.\n\nSit on the edge of the Balance Trainer, dome side up, with your knees bent and feet planted firmly on the ground.\n\nLay your back onto the Balance Trainer placing your back into an extended position while grabbing ahold of the cable handles and extending your arms to the insides of your thighs.\n\nFlex the bottom of your ribcage to the top of your hips to raise your upper back off the Balance Trainer.\n\nReturn to the starting position and reposition the handles to the sides of your torso.\n\nFlex the bottom of your ribcage to the top of your hips to reach for the right handle to your heel. Repeat with the opposite side before returning to the starting position. ",
+        "description": "Lower the arms of a free motion motion machine to the bottom position and place a Balance Trainer in the middle of the arms.\n\nSit on the edge of the Balance Trainer, dome side up, with your knees bent and feet planted firmly on the ground.\n\nLay your back onto the Balance Trainer placing your back into an extended position while grabbing ahold of the cable handles and extending your arms to the insides of your thighs.\n\nFlex the bottom of your ribcage to the top of your hips to raise your upper back off the Balance Trainer.\n\nReturn to the starting position and reposition the handles to the sides of your torso.\n\nFlex the bottom of your ribcage to the top of your hips to reach for the right handle to your heel. Repeat with the opposite side before returning to the starting position.",
+        "instructions": "Lower the arms of a free motion motion machine to the bottom position and place a Balance Trainer in the middle of the arms.\n\nSit on the edge of the Balance Trainer, dome side up, with your knees bent and feet planted firmly on the ground.\n\nLay your back onto the Balance Trainer placing your back into an extended position while grabbing ahold of the cable handles and extending your arms to the insides of your thighs.\n\nFlex the bottom of your ribcage to the top of your hips to raise your upper back off the Balance Trainer.\n\nReturn to the starting position and reposition the handles to the sides of your torso.\n\nFlex the bottom of your ribcage to the top of your hips to reach for the right handle to your heel. Repeat with the opposite side before returning to the starting position.",
         "aliases": [],
         "status": "active",
         "source": "nextrep",
@@ -7951,8 +7951,8 @@
         "trainerId": null,
         "gymId": null,
         "name": "Balance Trainer Front-Back Cross Jumps",
-        "description": "Standing to one side of the Balance Trainer, place one foot on the dome and lower into a half squat position. \nHop forward, then backward with the outside leg, keeping the leg on the dome in a squat position. \nStep to the top of the dome and travel over the top to the other side. \nRepeat the front-back hop on the other side. \nMaintain upright spinal posture and a braced core throughout the exercise.",
-        "instructions": "Standing to one side of the Balance Trainer, place one foot on the dome and lower into a half squat position. \nHop forward, then backward with the outside leg, keeping the leg on the dome in a squat position. \nStep to the top of the dome and travel over the top to the other side. \nRepeat the front-back hop on the other side. \nMaintain upright spinal posture and a braced core throughout the exercise.",
+        "description": "Standing to one side of the Balance Trainer, place one foot on the dome and lower into a half squat position.\nHop forward, then backward with the outside leg, keeping the leg on the dome in a squat position.\nStep to the top of the dome and travel over the top to the other side.\nRepeat the front-back hop on the other side.\nMaintain upright spinal posture and a braced core throughout the exercise.",
+        "instructions": "Standing to one side of the Balance Trainer, place one foot on the dome and lower into a half squat position.\nHop forward, then backward with the outside leg, keeping the leg on the dome in a squat position.\nStep to the top of the dome and travel over the top to the other side.\nRepeat the front-back hop on the other side.\nMaintain upright spinal posture and a braced core throughout the exercise.",
         "aliases": [],
         "status": "active",
         "source": "nextrep",
@@ -8471,8 +8471,8 @@
         "trainerId": null,
         "gymId": null,
         "name": "Balance Trainer Incline Push Up",
-        "description": "Place the Balance Trainer, platform side up, securely on top of 1 or 2 POWERSTAX™. \nSet up in an incline plank position with hands on the handle indentations on the rim of the platform. \nSlowly flex the arms and lower the chest toward the platform. \nExtend the arms and press back up to the plank position. \nMaintain a braced core and avoid letting the lower back arch during the push-up.",
-        "instructions": "Place the Balance Trainer, platform side up, securely on top of 1 or 2 POWERSTAX™. \nSet up in an incline plank position with hands on the handle indentations on the rim of the platform. \nSlowly flex the arms and lower the chest toward the platform. \nExtend the arms and press back up to the plank position. \nMaintain a braced core and avoid letting the lower back arch during the push-up.",
+        "description": "Place the Balance Trainer, platform side up, securely on top of 1 or 2 POWERSTAX™.\nSet up in an incline plank position with hands on the handle indentations on the rim of the platform.\nSlowly flex the arms and lower the chest toward the platform.\nExtend the arms and press back up to the plank position.\nMaintain a braced core and avoid letting the lower back arch during the push-up.",
+        "instructions": "Place the Balance Trainer, platform side up, securely on top of 1 or 2 POWERSTAX™.\nSet up in an incline plank position with hands on the handle indentations on the rim of the platform.\nSlowly flex the arms and lower the chest toward the platform.\nExtend the arms and press back up to the plank position.\nMaintain a braced core and avoid letting the lower back arch during the push-up.",
         "aliases": [],
         "status": "active",
         "source": "nextrep",
@@ -10851,8 +10851,8 @@
         "trainerId": null,
         "gymId": null,
         "name": "Balance Trainer Reverse Hyperextension",
-        "description": "Place your hips on top of the Balance Trainer and position your elbows underneath your shoulders on the ground for stability with your toes resting on the ground hip width apart. \nFlex your glutes to extend your hips and raise your toes and legs up off the ground keeping your legs straight. \nControllably return to the starting position.",
-        "instructions": "Place your hips on top of the Balance Trainer and position your elbows underneath your shoulders on the ground for stability with your toes resting on the ground hip width apart. \nFlex your glutes to extend your hips and raise your toes and legs up off the ground keeping your legs straight. \nControllably return to the starting position.",
+        "description": "Place your hips on top of the Balance Trainer and position your elbows underneath your shoulders on the ground for stability with your toes resting on the ground hip width apart.\nFlex your glutes to extend your hips and raise your toes and legs up off the ground keeping your legs straight.\nControllably return to the starting position.",
+        "instructions": "Place your hips on top of the Balance Trainer and position your elbows underneath your shoulders on the ground for stability with your toes resting on the ground hip width apart.\nFlex your glutes to extend your hips and raise your toes and legs up off the ground keeping your legs straight.\nControllably return to the starting position.",
         "aliases": [],
         "status": "active",
         "source": "nextrep",
@@ -12104,8 +12104,8 @@
         "trainerId": null,
         "gymId": null,
         "name": "Balance Trainer Single Leg Lifts",
-        "description": "Lie on the dome with the lumbar spine centered on the top. \nBend one leg with the foot flat on the floor, and fully extend the other leg and the opposing arm. \nLift the extended leg while simultaneously reaching to the ankle with the opposite arm. \nSlowly lower the arm and leg at the same time, then repeat the arm/leg lift. \nAlternate sides after the desired number of repetitions.",
-        "instructions": "Lie on the dome with the lumbar spine centered on the top. \nBend one leg with the foot flat on the floor, and fully extend the other leg and the opposing arm. \nLift the extended leg while simultaneously reaching to the ankle with the opposite arm. \nSlowly lower the arm and leg at the same time, then repeat the arm/leg lift. \nAlternate sides after the desired number of repetitions.",
+        "description": "Lie on the dome with the lumbar spine centered on the top.\nBend one leg with the foot flat on the floor, and fully extend the other leg and the opposing arm.\nLift the extended leg while simultaneously reaching to the ankle with the opposite arm.\nSlowly lower the arm and leg at the same time, then repeat the arm/leg lift.\nAlternate sides after the desired number of repetitions.",
+        "instructions": "Lie on the dome with the lumbar spine centered on the top.\nBend one leg with the foot flat on the floor, and fully extend the other leg and the opposing arm.\nLift the extended leg while simultaneously reaching to the ankle with the opposite arm.\nSlowly lower the arm and leg at the same time, then repeat the arm/leg lift.\nAlternate sides after the desired number of repetitions.",
         "aliases": [],
         "status": "active",
         "source": "nextrep",
@@ -13199,8 +13199,8 @@
         "trainerId": null,
         "gymId": null,
         "name": "Balance Trainer Stability Ball Overhead Squats",
-        "description": "Stand on the Balance Trainer dome with feet in a hip width stance and feet as level as possible. \nLift the ball overhead and maintain this position throughout the exercise. \nSlowly flex the hips, knees and ankles, lowering into a comfortable depth squat. \nPress back to a balanced standing position. \nKeep the chest lifted and core braced throughout the exercise.",
-        "instructions": "Stand on the Balance Trainer dome with feet in a hip width stance and feet as level as possible. \nLift the ball overhead and maintain this position throughout the exercise. \nSlowly flex the hips, knees and ankles, lowering into a comfortable depth squat. \nPress back to a balanced standing position. \nKeep the chest lifted and core braced throughout the exercise.",
+        "description": "Stand on the Balance Trainer dome with feet in a hip width stance and feet as level as possible.\nLift the ball overhead and maintain this position throughout the exercise.\nSlowly flex the hips, knees and ankles, lowering into a comfortable depth squat.\nPress back to a balanced standing position.\nKeep the chest lifted and core braced throughout the exercise.",
+        "instructions": "Stand on the Balance Trainer dome with feet in a hip width stance and feet as level as possible.\nLift the ball overhead and maintain this position throughout the exercise.\nSlowly flex the hips, knees and ankles, lowering into a comfortable depth squat.\nPress back to a balanced standing position.\nKeep the chest lifted and core braced throughout the exercise.",
         "aliases": [],
         "status": "active",
         "source": "nextrep",
@@ -13423,8 +13423,8 @@
         "trainerId": null,
         "gymId": null,
         "name": "Balance Trainer Stability Ball Push Up",
-        "description": "Set up in a plank position with feet on the Balance Trainer dome and each hand on top of a Balance Pod. \nSlowly flex the arms and lower the chest toward the floor. \nExtend the arms and press back up to the plank position. \nMaintain a braced core and avoid letting the lower back arch during the push-up.",
-        "instructions": "Set up in a plank position with feet on the Balance Trainer dome and each hand on top of a Balance Pod. \nSlowly flex the arms and lower the chest toward the floor. \nExtend the arms and press back up to the plank position. \nMaintain a braced core and avoid letting the lower back arch during the push-up.",
+        "description": "Set up in a plank position with feet on the Balance Trainer dome and each hand on top of a Balance Pod.\nSlowly flex the arms and lower the chest toward the floor.\nExtend the arms and press back up to the plank position.\nMaintain a braced core and avoid letting the lower back arch during the push-up.",
+        "instructions": "Set up in a plank position with feet on the Balance Trainer dome and each hand on top of a Balance Pod.\nSlowly flex the arms and lower the chest toward the floor.\nExtend the arms and press back up to the plank position.\nMaintain a braced core and avoid letting the lower back arch during the push-up.",
         "aliases": [],
         "status": "active",
         "source": "nextrep",
